@@ -7,9 +7,9 @@ This combines edge detection and optical character recognition powered by deep l
 Due to the complexity and additional stickers on American license plates, this script works best on European license plates at the moment. I am tweaking the edge detection method to better recognize American plates despite the additional details.  
 
 
-Libraries Used:
--MatPlotLib
--OpenCV
--Numpy
--Imutils
--EasyOCR
+Libraries Used:  
+-MatPlotLib  
+-OpenCV  
+-Numpy  
+-Imutils  
+-EasyOCR  
